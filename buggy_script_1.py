@@ -1,4 +1,5 @@
 # buggy_script_1.py (intentionally broken)
 
-print "hello"
-prnt ("welcome to the program")
+print ("hello")
+print ("welcome to the program")
+
